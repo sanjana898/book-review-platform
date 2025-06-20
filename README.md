@@ -10,7 +10,7 @@ A full-stack web application to discover books, add reviews, and manage user pro
 - **Database**: MongoDB
 - **Frontend**: React, Vite, Tailwind CSS, react-router-dom, react-hot-toast, lucide-react
 - **Auth**: JWT for protected endpoints
-- **Hosting**: Recommended – Render, Heroku (backend), Vercel (frontend)
+  
 
 ---
 
